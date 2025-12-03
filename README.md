@@ -77,8 +77,6 @@ Each chart includes short, focused insights.
 - `README.md` – this documentation  
 
 ---
-👤 Author
-
-Manish Kumar Rajak
-Data Analyst & Aspiring Data Scientist
-📧 manishkumar764505@gmail.com
+👤 Author  
+Manish Kumar Rajak  
+📧 manishkumar764505@gmail.com  
