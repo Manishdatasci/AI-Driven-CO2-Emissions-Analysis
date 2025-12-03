@@ -77,13 +77,8 @@ Each chart includes short, focused insights.
 - `README.md` – this documentation  
 
 ---
+👤 Author
 
-## ▶️ How to Run
-
-1. Clone the repository  
-2. Download OWID datasets and save as:
-   - `owid-co2-data.csv`
-   - `carbon-intensity-electricity.csv`
-3. Open the notebook:
-   ```bash
-   jupyter notebook Antarctica-Global-CO2-Emissions-Analysis.ipynb
+Manish Kumar Rajak
+Data Analyst & Aspiring Data Scientist
+📧 manishkumar764505@gmail.com
